@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YT-Form/static/css/main.c04a393b.css",
+    "main.js": "/YT-Form/static/js/main.d4e3108f.js",
+    "static/js/787.0edbcda9.chunk.js": "/YT-Form/static/js/787.0edbcda9.chunk.js",
+    "static/media/logo.svg": "/YT-Form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YT-Form/index.html",
+    "main.c04a393b.css.map": "/YT-Form/static/css/main.c04a393b.css.map",
+    "main.d4e3108f.js.map": "/YT-Form/static/js/main.d4e3108f.js.map",
+    "787.0edbcda9.chunk.js.map": "/YT-Form/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c04a393b.css",
+    "static/js/main.d4e3108f.js"
+  ]
+}
